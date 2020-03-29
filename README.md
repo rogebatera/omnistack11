@@ -1,2 +1,2 @@
-# omnistack11
-Projeto Be The Hero da Rocketseat
+# Semana Omnistack 11
+Projeto Be The Hero da Rocketseat com Backend, Frontend e Mobile.
